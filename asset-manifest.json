@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LGM_TASK1/static/css/main.4786105c.css",
+    "main.js": "/LGM_TASK1/static/js/main.72ea9141.js",
+    "index.html": "/LGM_TASK1/index.html",
+    "main.4786105c.css.map": "/LGM_TASK1/static/css/main.4786105c.css.map",
+    "main.72ea9141.js.map": "/LGM_TASK1/static/js/main.72ea9141.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4786105c.css",
+    "static/js/main.72ea9141.js"
+  ]
+}
